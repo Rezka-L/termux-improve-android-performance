@@ -1,0 +1,1 @@
+# termux-improve-android-performance
