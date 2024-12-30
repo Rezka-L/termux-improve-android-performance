@@ -2,12 +2,23 @@
 
 
 
-1.pkg update
-2.pkg upgrade
-3.pkg install bash
-4.pkg install nodejs
-5.pkg install git clone
-git clone https://github.com/Rezka-L/termux-improve-android-performance
-cd termux-improve-android-performance
-bash rez777.sh
-✅ 
+## Instalasi
+
+Ikuti langkah-langkah berikut untuk menginstal dan menjalankan aplikasi ini di komputer Anda.
+
+1. Clone repositori ini:
+   ```bash
+   git clone https://github.com/username/nama-proyek.git
+   ```
+2. Masuk ke direktori proyek:
+   ```bash
+   cd nama-proyek
+   ```
+3. Instal dependensi:
+   ```bash
+   npm install
+   ```
+4. Jalankan aplikasi:
+   ```bash
+   npm start
+   ```
