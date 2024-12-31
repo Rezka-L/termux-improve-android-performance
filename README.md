@@ -5,20 +5,31 @@
 ## Instalasi
 
 Ikuti langkah-langkah berikut untuk menginstal dan menjalankan aplikasi ini di komputer Anda.
+ 
+ ```bash
+ 1.pkg update
+```
+``` 
+2.pkg upgrade
+```
+```
 
-1. Clone repositori ini:
+3.pkg install figlet
+```
+```
+pkg install git
+```
+
+ 
+Clone repositori ini:
    ```bash
-   git clone https://github.com/username/nama-proyek.git
+   git clone https://github.com/Rezka-L/termux-improve-android-performance
    ```
 2. Masuk ke direktori proyek:
    ```bash
-   cd nama-proyek
+   cd termux-improve-android-pervormance
    ```
-3. Instal dependensi:
+4. Jalankan script:
    ```bash
-   npm install
-   ```
-4. Jalankan aplikasi:
-   ```bash
-   npm start
+   bash rez777.sh
    ```
